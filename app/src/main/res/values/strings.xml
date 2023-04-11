@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Insert Word</string>
+    <string name="full_name">FullName</string>
+    <string name="username">username</string>
+    <string name="followers">10 Followers</string>
+    <string name="following">10 Following</string>
+    <string name="tab_one">Followers</string>
+    <string name="tab_two">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dark_mode">Dark Mode</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="remove_favorite">Remove Favorite</string>
+    <string name="splash_description">Github Logo</string>
+    <string name="settings">Settings</string>
+</resources>
